@@ -1,10 +1,38 @@
 /***
+* header styles
+***/
+header {
+	background-color: pink;
+}
+
+/***
+* body styles
+***/
+main {
+	padding: 3rem 0;
+}
+
+/***
 * footer styles
 ***/
 footer {
 	background-color: black;
 	color: white;
+	padding: 2rem 0;
+	color: #888;
 }
+
+.foot-content {
+	border: 1px solid;
+	padding: 1rem;
+	margin-bottom: 2rem;
+}
+
+.copyright {
+	font-size: 0.9em;
+	font-style: italic;
+}
+
 
 
 /***

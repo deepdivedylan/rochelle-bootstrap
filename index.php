@@ -75,11 +75,9 @@
 					<div class="row">
 
 						<!--welcome section-->
-						<div class="col-xs-12">
-							<div class="well text-center">
-								<h1>Welcome to my website! Yay!</h1>
-								<p>Some text down here...</p>
-							</div>
+						<div class="col-xs-12 well text-center">
+							<h1>Welcome to my website! Yay!</h1>
+							<p>Some text down here...</p>
 						</div>
 
 						<!--1st content section-->
@@ -87,21 +85,25 @@
 							<div class="col-md-3">
 								<div class="well">
 									<h4>Section 1</h4>
+									<p>My left donut is missing, as is my right use lap as chair. Lick the other cats scamper sit in box meowzer!. Immediately regret falling into bathtub unwrap toilet paper hola te quiero. Eat from dog's food white cat sleeps on a black shirt hide head under blanket so no one can see.</p>
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="well">
 									<h4>Section 2</h4>
+									<p>My left donut is missing, as is my right use lap as chair. Lick the other cats scamper sit in box meowzer!. Immediately regret falling into bathtub unwrap toilet paper hola te quiero. Eat from dog's food white cat sleeps on a black shirt hide head under blanket so no one can see.</p>
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="well">
 									<h4>Section 3</h4>
+									<p>My left donut is missing, as is my right use lap as chair. Lick the other cats scamper sit in box meowzer!. Immediately regret falling into bathtub unwrap toilet paper hola te quiero. Eat from dog's food white cat sleeps on a black shirt hide head under blanket so no one can see.</p>
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="well">
 									<h4>Section 4</h4>
+									<p>My left donut is missing, as is my right use lap as chair. Lick the other cats scamper sit in box meowzer!. Immediately regret falling into bathtub unwrap toilet paper hola te quiero. Eat from dog's food white cat sleeps on a black shirt hide head under blanket so no one can see.</p>
 								</div>
 							</div>
 						</div>
@@ -141,7 +143,7 @@
 				</div>
 				<div class="row">
 					<div class="col-xs-12">
-						<div class="text-center">
+						<div class="copyright text-center">
 							&copy; 2016 Foo!
 						</div>
 					</div>
